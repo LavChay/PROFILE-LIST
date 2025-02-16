@@ -1,3 +1,9 @@
+# PROFILE-LIST
+
+Generated this using react, redux, axios, material ui, material icons, 
+Components are   Profile List, Create Profile, View Profile 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
