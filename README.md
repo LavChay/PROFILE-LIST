@@ -1,7 +1,13 @@
 # PROFILE-LIST
 
 Generated this using react, redux, axios, material ui, material icons, 
-Components are   Profile List, Create Profile, View Profile 
+Components are   Profile List, Create Profile, View Profile(Pass the data from List COmponent to view profile component using useLocaton() hook. 
+
+# Hooks
+useState() :- to set the data
+useNavigate():- to navigate from one component to another
+useEffect():- to call the api on component load
+useDispatch():- to dispatch the action and data to reducer and save to store
 
 
 # Getting Started with Create React App
