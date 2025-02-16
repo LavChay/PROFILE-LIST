@@ -12,6 +12,7 @@ const ViewProfile = () => {
         dispatch({ type: 'VIEW_PROFILE', payload: profileData });
     }, [dispatch, profileData]);
     return (
+        
         <div>
             <h1>View Profile</h1>
             <p>Name: {profileData.name}</p>
