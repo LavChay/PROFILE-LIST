@@ -1,0 +1,2 @@
+export const PROFILES_LIST = 'PROFILES_LIST';
+export const PROFILES_ERROR = 'PROFILES_ERROR';
